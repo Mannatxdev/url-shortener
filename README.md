@@ -29,5 +29,5 @@ This project allows you to create short URLs, redirect users, and track visit hi
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/Mannatxdev/url-shortener.git
 cd url-shortener
